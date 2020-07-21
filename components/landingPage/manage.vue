@@ -15,7 +15,8 @@
         </v-col>
       </v-row>
     </v-container>
-    <v-img
+    <img
+      style="max-width: 100%;"
       src="https://res.cloudinary.com/musbell/image/upload/v1585361885/asset1_a8mcbb.png"
     />
   </section>

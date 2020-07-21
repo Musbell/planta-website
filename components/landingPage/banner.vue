@@ -41,7 +41,7 @@
                   depressed
                   outlined
                   tile
-                  >Click to Preview</v-btn
+                  >Preview Demo</v-btn
                 >
               </a>
             </div>
@@ -50,9 +50,9 @@
             >
           </v-container>
         </v-col>
-        <v-col cols="12" md="6">
-          <v-img
-            style="z-index: 1;"
+        <v-col cols="12" md="6" style="z-index: 1;">
+          <img
+            style="max-width: 100%;"
             src="https://res.cloudinary.com/musbell/image/upload/v1585361885/Asset2_lrpdn2.png"
           />
         </v-col>

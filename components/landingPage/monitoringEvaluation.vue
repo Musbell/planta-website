@@ -4,7 +4,8 @@
       <v-row align="center" justify="center">
         <v-col class="text-center" cols="12" md="6">
           <v-card elevation="10" class="mt-10">
-            <v-img
+            <img
+              style="max-width: 100%;"
               src="https://res.cloudinary.com/musbell/image/upload/v1585134637/Screenshot_from_2020-03-04_14-39-12_msszrv.png"
             />
           </v-card>

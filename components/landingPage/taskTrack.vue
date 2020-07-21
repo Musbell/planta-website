@@ -16,7 +16,8 @@
         </v-col>
         <v-col class="text-center" cols="12" md="6">
           <v-card elevation="10">
-            <v-img
+            <img
+              style="max-width: 100%;"
               src="https://res.cloudinary.com/musbell/image/upload/v1585135482/Screenshot_from_2020-03-04_14-38-24_q9qtl5.png"
             />
           </v-card>

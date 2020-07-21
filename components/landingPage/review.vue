@@ -2,7 +2,7 @@
   <section style="background: #545454; color: white;" class="text-center">
     <v-container>
       <p class="display-1 font-weight-medium mt-10">
-        PLANTA IS NOW ON REVIEW
+        PLANTA IS NOW ON PREVIEW
       </p>
       <p class="subtitle-1 mt-5 pr-10 pl-10">
         Try it out, share your ideas and leave feedback

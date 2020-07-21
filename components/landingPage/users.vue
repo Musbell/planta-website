@@ -25,8 +25,8 @@
         <v-tab-item>
           <v-row align="center" justify="center">
             <v-col cols="12" md="2" class="text-center">
-              <v-img
-                max-width="200"
+              <img
+                style="max-width: 100%;"
                 src="https://planta.ng/wp-content/uploads/2019/08/farmer1.png"
               />
             </v-col>
@@ -40,8 +40,8 @@
         <v-tab-item>
           <v-row align="center" justify="center">
             <v-col cols="12" md="2" class="text-center">
-              <v-img
-                max-width="200"
+              <img
+                style="max-width: 100%;"
                 src="https://planta.ng/wp-content/uploads/2019/08/coo.png"
               />
             </v-col>
@@ -58,8 +58,8 @@
         <v-tab-item>
           <v-row align="center" justify="center">
             <v-col cols="12" md="2" class="text-center">
-              <v-img
-                max-width="200"
+              <img
+                style="max-width: 100%;"
                 src="https://planta.ng/wp-content/uploads/2019/08/enterp-1.png"
               />
             </v-col>
